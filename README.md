@@ -5,3 +5,13 @@ Para poder correr el juego, se debe realizar las siguientes instrucciones en la 
 cd game
 python3 main.py
 ```
+
+# Charts projects
+
+```sh
+git clone
+cd app
+source charts-env/bin/activate
+pip3 install -r requirements.txt
+python3 main.py
+```

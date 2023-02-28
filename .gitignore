@@ -179,6 +179,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.game-env
+.charts-env
 
 # Spyder project settings
 .spyderproject
